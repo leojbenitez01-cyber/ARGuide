@@ -2,4 +2,12 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="ar_background">#FF11152A</color>
+    <color name="ar_surface">#FF1B2140</color>
+    <color name="ar_surface_variant">#FF242B4D</color>
+    <color name="ar_orange">#FFFF7A1A</color>
+    <color name="ar_text_primary">#FFF5F6FA</color>
+    <color name="ar_text_secondary">#FF9AA0C3</color>
+    <color name="ar_divider">#FF2C3358</color>
 </resources>
